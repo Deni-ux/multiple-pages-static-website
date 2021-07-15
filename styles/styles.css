@@ -17,3 +17,7 @@ a{
 p{
     color: #d6b0a7;
 }
+
+.container{
+    max-width: 800px !important;
+}
